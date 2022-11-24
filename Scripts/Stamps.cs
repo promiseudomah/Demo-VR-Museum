@@ -8,9 +8,9 @@ public class Stamps : MonoBehaviour
     public int x;
     public int stampCount;
  
-   private int PickStampsManager = Stamps.PickStampsManager ++;
+   //private int PickStampsManager = Stamps.PickStampsManager ++;
 
 
    
-        }
+}
 
