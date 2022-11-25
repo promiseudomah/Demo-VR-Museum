@@ -7,10 +7,11 @@ public class Stamps : MonoBehaviour
     public PickStampsManager psm;
     public int x;
     public int stampCount;
+    void Count(int x)
+    {
+        psm.stampsCount++;
+    }
  
-   //private int PickStampsManager = Stamps.PickStampsManager ++;
-
-
-   
-}
+  
+        }
 
