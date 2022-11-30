@@ -5,13 +5,22 @@ using UnityEngine;
 public class Stamps : MonoBehaviour
 {
     public PickStampsManager psm;
-    public int x;
-    public int stampCount;
-    void Count(int x)
+
+    private void Start()
     {
-        psm.stampsCount++;
+        gameObject.SetActive(true);
+    }   
+    public void CollectStamp(){
+
+        psm.SetStamps();
+        Invoke("OnDestroy", 0.25f);
+        
+    }
+
+    void OnDestroy(){
+        gameObject.SetActive(false);
     }
  
   
-        }
+}
 
