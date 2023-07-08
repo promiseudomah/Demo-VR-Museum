@@ -12,5 +12,6 @@ PS: I learnt alot with this project. First VR Project 🚀
 ## Installation 🚀
 To experience the Afro-American VR Museum, follow the installation instructions below:
 1. Clone the repository: `git clone https://github.com/your-username/afro-american-vr-museum.git`
-2. Install the necessary dependencies by running: `npm install`
-3. Launch the application: `npm start`
+
+
+⏹️ End of README
