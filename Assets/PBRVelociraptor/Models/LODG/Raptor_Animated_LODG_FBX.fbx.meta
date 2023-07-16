@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: a0fd3e22eaa8dfa4bb1601fe8b25d953
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -1654013519381156319
+    second: RaptorArmature|Raptor_Action_Pose
+  - first:
+      74: 1369745789714782098
+    second: RaptorArmature|Raptor_Bite1_Anim
+  - first:
+      74: 5690367358265959568
+    second: RaptorArmature|Raptor_Bite2_Anim
+  - first:
+      74: -5683718842293277579
+    second: RaptorArmature|Raptor_Call1_Anim
+  - first:
+      74: 7347129157420261156
+    second: RaptorArmature|Raptor_Death1_Anim
+  - first:
+      74: -3398154367868365451
+    second: RaptorArmature|Raptor_Death2_Anim
+  - first:
+      74: 1074170409976846964
+    second: RaptorArmature|Raptor_Drink_Anim
+  - first:
+      74: 5383148585376431547
+    second: RaptorArmature|Raptor_EatPrey_Anim
+  - first:
+      74: 3805685717080202810
+    second: RaptorArmature|Raptor_Hit1_Anim
+  - first:
+      74: 2891476447367250611
+    second: RaptorArmature|Raptor_Hit2_Anim
+  - first:
+      74: 7302696841112002598
+    second: RaptorArmature|Raptor_Hit3_Anim
+  - first:
+      74: 5497243292792420328
+    second: RaptorArmature|Raptor_Hit3_Anim_RM
+  - first:
+      74: -5260203128266656945
+    second: RaptorArmature|Raptor_Idle1_Anim
+  - first:
+      74: -8061144669887966914
+    second: RaptorArmature|Raptor_Idle2_Anim
+  - first:
+      74: -5645589696480447187
+    second: RaptorArmature|Raptor_Leap1_Anim
+  - first:
+      74: -3451694596111033580
+    second: RaptorArmature|Raptor_Leap1_Anim_RM
+  - first:
+      74: -4737449126290088502
+    second: RaptorArmature|Raptor_Leap2_Anim_RM
+  - first:
+      74: -8827493470686405246
+    second: RaptorArmature|Raptor_Leap2_Anim
+  - first:
+      74: 2834425562706900171
+    second: RaptorArmature|Raptor_Roar1_Anim
+  - first:
+      74: -722360230414628570
+    second: RaptorArmature|Raptor_Roar2_Anim
+  - first:
+      74: -5802973623661493375
+    second: RaptorArmature|Raptor_Run1_Anim
+  - first:
+      74: -4044701723028110635
+    second: RaptorArmature|Raptor_Run1_Anim_RM
+  - first:
+      74: -9006819931510109957
+    second: RaptorArmature|Raptor_Run2_Anim
+  - first:
+      74: 9067214625058211241
+    second: RaptorArmature|Raptor_Run2_Anim_RM
+  - first:
+      74: -8699474913647977871
+    second: RaptorArmature|Raptor_Screech1_Anim
+  - first:
+      74: -9077883669650344866
+    second: RaptorArmature|Raptor_SniffGround_Anim
+  - first:
+      74: -2059553160335642353
+    second: RaptorArmature|Raptor_Tackle_Anim
+  - first:
+      74: -8744107498521232282
+    second: RaptorArmature|Raptor_Tackle_Anim_RM
+  - first:
+      74: 4876630066056293116
+    second: RaptorArmature|Raptor_Walk_Anim
+  - first:
+      74: 7897905309349255468
+    second: RaptorArmature|Raptor_Walk_Anim_RM
+  - first:
+      74: 9016961776006405224
+    second: RaptorArmature|Standard_Pose
+  - first:
+      74: 2307952408533607642
+    second: RaptorArmature|Raptor_GoToSleep_Anim
+  - first:
+      74: 5015975073959143521
+    second: RaptorArmature|Raptor_SleepLoop_Anim
+  - first:
+      74: -1571940003589025153
+    second: RaptorArmature|Raptor_WakeFromSleep_Anim
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.03125
+    - 0.015625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

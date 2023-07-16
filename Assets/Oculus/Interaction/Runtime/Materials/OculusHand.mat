@@ -2,14 +2,18 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: OculusHand
   m_Shader: {fileID: 4800000, guid: b895d3431e75dc345a72e171f82bfbea, type: 3}
-  m_ShaderKeywords: _COLORGRADIENT_ON _FRESNEL_ON _KEYWORD0_ON
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _COLORGRADIENT_ON
+  - _FRESNEL_ON
+  - _KEYWORD0_ON
   m_LightmapFlags: 0
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -75,6 +79,7 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
     - _Alpha: 1
     - _BumpScale: 1
@@ -86,7 +91,7 @@ Material:
     - _Fresnel: 1
     - _FresnelOpacity: 0
     - _FresnelOpacityPower: 3.66
-    - _FresnelPower: 1.75
+    - _FresnelPower: 0.99
     - _GenerateGlow: 0
     - _GlobalOpacity: 0.714
     - _GlossMapScale: 1
@@ -98,16 +103,16 @@ Material:
     - _Mode: 0
     - _OcclusionEnabled: 0
     - _OcclusionStrength: 1
-    - _Opacity: 0.79
+    - _Opacity: 0.887
     - _OutlineFresnelOpacity: 0
     - _OutlineFresnelPower: 2.462451
     - _OutlineGlowIntensity: 1
     - _OutlineGradient: 0
     - _OutlineIntensity: 1
-    - _OutlineOpacity: 1
+    - _OutlineOpacity: 0.436
     - _OutlinePinchRange: 0.15
     - _OutlineSphereHardness: 0.15
-    - _OutlineWidth: 0.0014
+    - _OutlineWidth: 0
     - _Parallax: 0.02
     - _PinchIntensity: 0
     - _PinchRange: 0.12
@@ -120,7 +125,7 @@ Material:
     - _ThumbGlowValue: 0
     - _UVSec: 0
     - _UseTexture: 0
-    - _WristFade: 0
+    - _WristFade: 0.07
     - _WristLocalOffset: 0.06
     - _WristRange: 0.08
     - _WristScale: 1
@@ -132,12 +137,12 @@ Material:
     - _ColorGlow: {r: 0.1215686, g: 0.1254902, b: 0.1294117, a: 1}
     - _ColorPrimary: {r: 1, g: 0.4481132, b: 0.4481132, a: 1}
     - _ColorSecondary: {r: 1, g: 0.8443396, b: 0.8443396, a: 1}
-    - _ColorTop: {r: 0.19607843, g: 0.20392157, b: 0.21176471, a: 1}
+    - _ColorTop: {r: 0.8584906, g: 0.78932697, b: 0.64386797, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _FingerGlowColor: {r: 1, g: 1, b: 1, a: 1}
     - _GlowColor: {r: 1, g: 1, b: 1, a: 1}
     - _MainColor: {r: 0.1960784, g: 0.2039215, b: 0.2117647, a: 1}
-    - _OutlineColor: {r: 0.5377358, g: 0.5377358, b: 0.5377358, a: 1}
+    - _OutlineColor: {r: 0.85882354, g: 0.7882353, b: 0.6431373, a: 1}
     - _OutlineColorBottom: {r: 0, g: 0.19427729, b: 1, a: 1}
     - _OutlineColorTop: {r: 1, g: 0, b: 0, a: 1}
     - _OutlineGlowColor: {r: 0.4339623, g: 0.4339623, b: 0.4339623, a: 1}
